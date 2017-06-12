@@ -1,6 +1,6 @@
 # Config settings
 title: Jekyll Random Redirect Demo
-baseurl: "/jekyll-random-redirect"
+baseurl: "/random_food"
 
 # Random redirect settings
 random_redirect:
